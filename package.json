@@ -9,6 +9,7 @@
     "webpack": "webpack -w"
   },
   "dependencies": {
+    "body-parser": "^1.18.3",
     "debug": "^2.2.0",
     "ejs": "~2.3.3",
     "express": "~4.13.1",
